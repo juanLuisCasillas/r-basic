@@ -26,3 +26,7 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 11. Introducción a distribuciones de probabilidad
 
 este es el readme-md en el repositorio en c: gestionado por githubdesktop repositorio que es el clon del fotk en girjab
+
+un cambio mas y otro commit
+
+
