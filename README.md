@@ -25,6 +25,8 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
+cambio en github
+
 
 
 
